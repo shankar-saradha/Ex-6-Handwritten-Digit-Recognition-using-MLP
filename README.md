@@ -19,8 +19,8 @@ Evaluate the model. We have 10,000 images in our dataset which will be used to e
 Create GUI to predict digits.Now for the GUI, we have created a new file in which we build an interactive window to draw digits on canvas and with a button, we can recognize the digit.
 
 ## Program:
-### Developed By: P.Siva Naga Nithin.
-### Reg.No: 212221240037
+### Developed By: Shankar Saradha
+### Reg.No: 212221240052
 ```
 import numpy as np
 import pandas as pd
